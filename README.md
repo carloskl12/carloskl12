@@ -1,5 +1,9 @@
 ### Hola  👋
-Bienvenidos a este espacio, es un lugar donde comparto algo del código que genero día a día, todo con el fin de seguir mi mantra: "Si es repetitivo y aburrido, una computadora lo puede hacer mejor", y en el proceso, lo aburrido se vuelve divertido implementarlo.
+Bienvenidos a este espacio, es un lugar donde comparto algo del código que genero día a día, y que es resultado de seguir mi mantra: 
+
+✨ *Si es repetitivo y aburrido, una computadora lo puede hacer mejor* 
+ 
+¿Por qué código?... porque lo utilizo para transformar algo aburrido en un proceso divertido😄, y además, es un resultado gratificante cuando pienso en el tiempo que me ahorraré en tales tareas😁.
 <!--
 **carloskl12/carloskl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
